@@ -5,7 +5,7 @@
 这个项目是一个文档扫描仪应用程序，使用Python编写。它可以帮助用户加载图片并裁剪文档，提供方便的文档扫描功能。
 
 ## 项目运行效果截图
-![项目运行效果截图](TODO: 此处放截图文件名)
+
 <img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture1.jpg" width="350" height="140"><img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture2.jpg" width="350" height="140">
 
 
