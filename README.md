@@ -6,7 +6,7 @@
 
 ## 项目运行效果截图
 ![项目运行效果截图](TODO: 此处放截图文件名)
-<img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture1.jpg" width="150" height="187.5"><img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture2.jpg" >
+<img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture1.jpg" width="350" height="140"><img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture2.jpg" width="350" height="140">
 
 
 ## 功能
