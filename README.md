@@ -6,7 +6,10 @@
 
 ## 项目运行效果截图
 
-<img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture1.jpg" width="350" height="140"><img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture2.jpg" width="350" height="140">
+图一展示
+<img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture1.jpg" width="350" height="140">
+图二展示
+<img src="https://github.com/LiuEhe/doc_scanner/blob/main/result/picture2.jpg" width="350" height="140">
 
 
 ## 功能
