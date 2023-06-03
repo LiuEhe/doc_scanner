@@ -99,6 +99,7 @@ class DocScannerApp:
             cv.circle(img_copy, tuple(corner.astype(int)), 5, (0, 255, 0), -1)
             # 在图片上绘制一个绿色的，宽度为2的多边形连接所有角落
             #TODO
+            cv.drawContours(img_copy, [self.corners.astype(int)], -1, (0, 255, 0), 2)
             img_tk = self.cv2image_to_tkinter_image(img_copy)  # 将 OpenCV 图片转换为 Tkinter 图片
             self.canvas.create_image(0, 0, anchor=tk.NW, image=img_tk)  # 在画布上创建图片
             self.canvas.image = img_tk  # 保存图片，防止被垃圾回收
